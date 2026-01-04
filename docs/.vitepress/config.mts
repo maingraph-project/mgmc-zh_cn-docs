@@ -3,13 +3,33 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Maingraph For MC",
-  description: "Minecraft 可视化蓝图引擎文档",
+  description: "Minecraft 可视化蓝图 Mod 文档",
+  head: [
+    ['link', { rel: 'icon', href: '/icon.png' }]
+  ],
+  lastUpdated: true,
   themeConfig: {
+    logo: '/icon.png',
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: '首页', link: '/' },
-      { text: '基础入门', link: '/快速入门/基础入门' },
+      { text: '快速入门', link: '/快速入门/基础入门' },
       { text: '节点文档', link: '/节点/事件/世界事件/当运行【斜杠】mgrun命令时' }
     ],
+    footer: {
+      message: '基于 VitePress 构建',
+      copyright: 'Copyright © 2024-present Maingraph Team'
+    },
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
+    outline: {
+      label: '页面大纲'
+    },
+    lastUpdatedText: '最后更新于',
 
     sidebar: [
       {
@@ -214,11 +234,6 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/maingraph-project/for-mc' }
-    ],
-
-    footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024-present Aixiaoji'
-    }
+    ]
   }
 })
