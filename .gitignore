@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# VitePress / Vite
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/last-state.json
+
+# OS specific files
+.DS_Store
+Thumbs.db
