@@ -69,6 +69,13 @@ export default defineConfig({
         ]
       },
       {
+        text: '开发指南',
+        collapsed: false,
+        items: [
+          { text: '网络架构', link: '/开发指南/网络架构' }
+        ]
+      },
+      {
         text: '节点列表',
         collapsed: false,
         items: [
