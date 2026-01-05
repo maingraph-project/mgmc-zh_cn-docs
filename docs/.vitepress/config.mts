@@ -35,7 +35,8 @@ export default defineConfig({
       {
         text: '文档概览',
         items: [
-          { text: '首页', link: '/概览/首页' }
+          { text: '首页', link: '/概览/首页' },
+          { text: '更新日志', link: '/概览/更新日志' }
         ]
       },
       {
