@@ -8,9 +8,9 @@
 1. **默认快捷键**: 按下 `Ctrl + M` 键。
 ![alt text](/assets/editor/image.png)
 2. **蓝图选择界面**: 此时会弹出一个界面，列出你当前存档中所有的蓝图。
-![2026-01-11-01-42-32.png](file-imgs/2026-01-11-01-42-32.png)
+![2026-01-11-01-42-32.png](imgs/2026-01-11-01-42-32.png)
 3. **创建新蓝图**: 在上方的输入框输入名称（例如 `helloworld`），点击 **“创建”**。
-![alt text](<file-imgs/1.gif>)
+![alt text](<imgs/1.gif>)
 
 ## 3. 你的第一个蓝图：Hello, World!
 
