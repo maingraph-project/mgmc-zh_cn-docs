@@ -4,13 +4,17 @@ layout: home
 hero:
   name: "Maingraph For MC"
   text: "中文文档"
+  tagline: 为 Minecraft 打造的可视化蓝图 Mod
   image:
     src: /icon.png
     alt: Maingraph Logo
   actions:
     - theme: brand
-      text: 快速开始
+      text: 🚀 快速开始
       link: /快速入门/基础入门
+    - theme: alt
+      text: 🧩 节点参考
+      link: /节点/事件/世界事件/当运行【斜杠】mgrun命令时
 
 features:
   - icon: 🎨
