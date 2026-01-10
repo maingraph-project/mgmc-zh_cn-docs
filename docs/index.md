@@ -9,18 +9,8 @@ hero:
     alt: Maingraph Logo
   actions:
     - theme: brand
-      text: 快速开始
-      link: /快速入门/基础入门
+      text: 目录
+      link: /目录
 
-features:
-  - icon: 🎨
-    title: 可视化
-    details: 拖拽节点即可构建逻辑，无需深奥的代码功底，让创意即刻呈现。
-  - icon: ⚡
-    title: 实时生效
-    details: 在编辑器中保存蓝图，游戏中逻辑瞬间更新。无需重启服务器或重载脚本。
-  - icon: 📦
-    title: 丰富的节点库
-    details: 涵盖事件、动作、变量与数学逻辑
 ---
 
