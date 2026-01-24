@@ -4,7 +4,8 @@
 
 ## 节点概览
 - **分类**: 动作 > 玩家动作
-![alt text](images/image.png)
+- **内部ID**：`mgmc:print_chat`
+- ![alt text](images/image.png)
 
 ## 端口定义
 
