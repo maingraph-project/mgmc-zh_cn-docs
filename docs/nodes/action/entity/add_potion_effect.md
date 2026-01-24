@@ -5,7 +5,7 @@
 ## 节点概览
 - **分类**: 动作 > 实体动作
 - **内部ID**：`mgmc:add_potion_effect`
-- ![alt text](images/image-5.png)
+- ![alt text](images/image-7.png)
 
 ## 端口定义
 
