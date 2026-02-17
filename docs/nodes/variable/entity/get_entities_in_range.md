@@ -5,7 +5,7 @@
 - **分类**：变量 > 实体
 - **内部ID**：`mgmc:get_entities_in_range`
 - **预览图**：
-  ![alt text](images/image.png)
+  ![alt text](images/image-5.png)
 
 ## 端口定义表格
 
