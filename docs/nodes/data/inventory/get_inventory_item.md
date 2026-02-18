@@ -5,7 +5,7 @@
 ## 节点概览
 - **分类**: 数据 > 物品数据
 - **内部ID**：`mgmc:get_inventory_item`
-- ![alt text](images/image.png)
+- ![alt text](images/image-3.png)
 
 ## 端口定义
 
